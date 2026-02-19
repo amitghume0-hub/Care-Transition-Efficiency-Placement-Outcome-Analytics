@@ -1,6 +1,3 @@
-# Care-Transition-Efficiency-Placement-Outcome-Analytics
-
-
 # 🏛 HHS Child Welfare System Flow Analysis
 
 ## 📌 **Project Overview**
@@ -15,6 +12,20 @@ The primary objective was to determine:
 - If discharge rates are sufficient to reduce backlog  
 - When seasonal demand peaks  
 - How significant the existing inventory burden is  
+
+---
+
+## 📊 **Dashboard Preview**
+
+### 🔹 Executive KPI & Flow Overview
+
+![HHS Dashboard Overview](https://ik.imagekit.io/r4tkneg47/Screenshot%202026-02-19%20125310.png)
+
+---
+
+### 🔹 Seasonal & Trend Analysis View
+
+![HHS Seasonal Analysis](https://ik.imagekit.io/r4tkneg47/Screenshot%202026-02-19%20125247.png)
 
 ---
 
@@ -59,15 +70,7 @@ Resource allocation should increase during Q2 peak months to manage operational 
 
 ---
 
-### **3️⃣ Quarterly Apprehension Trends**
-
-- Q2 consistently records the highest activity
-- 2023–2024 experienced elevated system pressure
-- 2025 shows early signs of stabilization
-
----
-
-### **4️⃣ System Pressure Indicators**
+### **3️⃣ System Pressure Indicators**
 
 | Metric | Value | Interpretation |
 |--------|--------|----------------|
@@ -78,16 +81,6 @@ Resource allocation should increase during Q2 peak months to manage operational 
 
 **Insight:**  
 Although net flow is negative (more exits than entries), structural pressure remains due to accumulated inventory.
-
----
-
-### **5️⃣ Monthly Net Flow Monitoring**
-
-Most months reflect negative net flow; however:
-
-- Backlog reduction is gradual  
-- Structural inefficiencies may still exist  
-- Historical accumulation remains substantial  
 
 ---
 
@@ -120,8 +113,8 @@ The dashboard includes:
 - Executive KPI Summary  
 - Inflow vs Outflow Trend  
 - Seasonal Pattern Analysis  
-- Quarterly Apprehension Trend  
-- Net Flow Monitoring  
+- Quarterly Trend Monitoring  
+- Net Flow Analysis  
 - Discharge vs Apprehension Comparison  
 
 The design focuses on executive-level monitoring and operational decision support.
@@ -138,4 +131,5 @@ The design focuses on executive-level monitoring and operational decision suppor
 ---
 
 ## 📂 **Project Structure**
+
 
